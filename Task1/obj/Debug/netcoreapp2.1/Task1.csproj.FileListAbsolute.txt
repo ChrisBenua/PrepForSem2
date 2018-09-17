@@ -1,0 +1,10 @@
+/Users/Christian/Projects/PrepareForSem2/Task1/bin/Debug/netcoreapp2.1/Task1.deps.json
+/Users/Christian/Projects/PrepareForSem2/Task1/bin/Debug/netcoreapp2.1/Task1.runtimeconfig.json
+/Users/Christian/Projects/PrepareForSem2/Task1/bin/Debug/netcoreapp2.1/Task1.runtimeconfig.dev.json
+/Users/Christian/Projects/PrepareForSem2/Task1/bin/Debug/netcoreapp2.1/Task1.dll
+/Users/Christian/Projects/PrepareForSem2/Task1/bin/Debug/netcoreapp2.1/Task1.pdb
+/Users/Christian/Projects/PrepareForSem2/Task1/obj/Debug/netcoreapp2.1/Task1.csproj.CoreCompileInputs.cache
+/Users/Christian/Projects/PrepareForSem2/Task1/obj/Debug/netcoreapp2.1/Task1.AssemblyInfoInputs.cache
+/Users/Christian/Projects/PrepareForSem2/Task1/obj/Debug/netcoreapp2.1/Task1.AssemblyInfo.cs
+/Users/Christian/Projects/PrepareForSem2/Task1/obj/Debug/netcoreapp2.1/Task1.dll
+/Users/Christian/Projects/PrepareForSem2/Task1/obj/Debug/netcoreapp2.1/Task1.pdb

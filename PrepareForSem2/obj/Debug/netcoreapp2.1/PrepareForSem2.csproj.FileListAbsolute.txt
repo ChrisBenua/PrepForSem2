@@ -1,0 +1,11 @@
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/bin/Debug/netcoreapp2.1/PrepareForSem2.deps.json
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/bin/Debug/netcoreapp2.1/PrepareForSem2.runtimeconfig.json
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/bin/Debug/netcoreapp2.1/PrepareForSem2.runtimeconfig.dev.json
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/bin/Debug/netcoreapp2.1/PrepareForSem2.dll
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/bin/Debug/netcoreapp2.1/PrepareForSem2.pdb
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.csprojAssemblyReference.cache
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.csproj.CoreCompileInputs.cache
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.AssemblyInfoInputs.cache
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.AssemblyInfo.cs
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.dll
+/Users/Christian/Projects/PrepareForSem2/PrepareForSem2/obj/Debug/netcoreapp2.1/PrepareForSem2.pdb

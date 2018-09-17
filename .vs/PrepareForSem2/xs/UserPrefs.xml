@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0A58918D-0540-49D7-8A1D-9B5C7B74D229}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/Program.cs">
+    <Files>
+      <File FileName="PrepareForSem2/Program.cs" Line="9" Column="6" />
+      <File FileName="Task1/Program.cs" Line="14" Column="10" />
+      <File FileName="Task2/Program.cs" Line="19" Column="41" />
+      <File FileName="Task4/Program.cs" Line="29" Column="69" />
+      <File FileName="Task3/Program.cs" Line="8" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrepareForSem2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
